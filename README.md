@@ -14,8 +14,9 @@ This is a simple 2D game made with Godot Engine as a part of the "First 2D Game 
 "Dodge the Creeps" is a 2D action game where the player controls a character that must dodge incoming enemies (creeps) that spawn from the edges of the screen. The goal is to survive as long as possible while avoiding the creeps.
 
 ## Screenshots
-![Main Menu](hud.png)
-![Gameplay](InGame.png)
+![Main Menu](HUD.png)
+![Gameplay]<img width="621" alt="InGame" src="https://github.com/TypeCc/Godot-First-2D-Game-Tutorial/assets/118025810/13c98a95-762f-4f89-a870-7b2887a5ee0f">
+
 
 
 ## Installation
