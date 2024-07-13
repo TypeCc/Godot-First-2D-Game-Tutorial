@@ -23,7 +23,7 @@ This is a simple 2D game made with Godot Engine as a part of the "First 2D Game 
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/dodge-the-creeps.git
+    git clone https://github.com/TypeCc/dodge-the-creeps.git
     ```
 
 2. **Navigate to the project directory:**
